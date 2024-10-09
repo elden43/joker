@@ -42,9 +42,9 @@ This application can be easily deployed to any environment that supports Docker.
 ### Repository
 
 The source code for this application can be found on GitHub:  
-[GitHub Repository Placeholder]
+[https://github.com/elden43/joker](https://github.com/elden43/joker)
 
 ### Docker Hub
 
 The Docker image for this application is available on Docker Hub:  
-[Docker Hub Image Placeholder]
+[https://hub.docker.com/repository/docker/elden43/joker/general](https://hub.docker.com/repository/docker/elden43/joker/general)
